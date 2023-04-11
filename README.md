@@ -1,2 +1,2 @@
-# SayacOdev
-Asaffurkan ATP 11/A 9194
+# Counter
+Merhabalar bugün butona tıklandığında artan sayaç yaptık iyi kodlamalar.
